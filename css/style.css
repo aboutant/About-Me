@@ -1,0 +1,26 @@
+body {
+    font-family:Roboto;
+    background-color:  #D4F2FF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:"Roboto";
+    font-size:40pt;
+}
+
+header {
+    text-align:center;
+}
+
+#hero, footer {
+    color:#5B8DB3;
+      text-align:center;  
+}
+
+#hero img {
+    width:300px;
+}
+
+#bio {
+    text-align:center;
+} 
